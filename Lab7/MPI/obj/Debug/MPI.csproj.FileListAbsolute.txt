@@ -1,0 +1,6 @@
+D:\univer\spsu-mm-programming-sartasov\Autumn\242\N_Shigarov\Lab7\MPI\bin\Debug\MPI.exe.config
+D:\univer\spsu-mm-programming-sartasov\Autumn\242\N_Shigarov\Lab7\MPI\bin\Debug\MPI.exe
+D:\univer\spsu-mm-programming-sartasov\Autumn\242\N_Shigarov\Lab7\MPI\bin\Debug\MPI.pdb
+D:\univer\spsu-mm-programming-sartasov\Autumn\242\N_Shigarov\Lab7\MPI\obj\Debug\MPI.csprojResolveAssemblyReference.cache
+D:\univer\spsu-mm-programming-sartasov\Autumn\242\N_Shigarov\Lab7\MPI\obj\Debug\MPI.exe
+D:\univer\spsu-mm-programming-sartasov\Autumn\242\N_Shigarov\Lab7\MPI\obj\Debug\MPI.pdb

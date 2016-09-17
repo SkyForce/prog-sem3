@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.30501.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Server", "Lab7\Server.csproj", "{8304C4D7-891B-4E35-98B8-5281799C63EE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Client", "Client\Client.csproj", "{36975A5D-0CE9-4671-856E-207D20CCABCF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MPI", "MPI\MPI.csproj", "{A663CFD3-5DD8-409A-83E7-7F60AD89D6DF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8304C4D7-891B-4E35-98B8-5281799C63EE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8304C4D7-891B-4E35-98B8-5281799C63EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8304C4D7-891B-4E35-98B8-5281799C63EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8304C4D7-891B-4E35-98B8-5281799C63EE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{36975A5D-0CE9-4671-856E-207D20CCABCF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{36975A5D-0CE9-4671-856E-207D20CCABCF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{36975A5D-0CE9-4671-856E-207D20CCABCF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{36975A5D-0CE9-4671-856E-207D20CCABCF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A663CFD3-5DD8-409A-83E7-7F60AD89D6DF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A663CFD3-5DD8-409A-83E7-7F60AD89D6DF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A663CFD3-5DD8-409A-83E7-7F60AD89D6DF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A663CFD3-5DD8-409A-83E7-7F60AD89D6DF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

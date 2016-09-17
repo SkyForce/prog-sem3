@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.30501.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Server", "Server\Server.csproj", "{0BDF0CD2-6D9C-4A21-9F57-ECAAA8129831}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Client", "Client\Client.csproj", "{F164D778-01D5-4EDD-90CE-A492EA98C7CF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OverloadTest", "OverloadTest\OverloadTest.csproj", "{FCCCC488-E4AB-446A-91CF-FD00B539AE8B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0BDF0CD2-6D9C-4A21-9F57-ECAAA8129831}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0BDF0CD2-6D9C-4A21-9F57-ECAAA8129831}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0BDF0CD2-6D9C-4A21-9F57-ECAAA8129831}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0BDF0CD2-6D9C-4A21-9F57-ECAAA8129831}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F164D778-01D5-4EDD-90CE-A492EA98C7CF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F164D778-01D5-4EDD-90CE-A492EA98C7CF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F164D778-01D5-4EDD-90CE-A492EA98C7CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F164D778-01D5-4EDD-90CE-A492EA98C7CF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FCCCC488-E4AB-446A-91CF-FD00B539AE8B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FCCCC488-E4AB-446A-91CF-FD00B539AE8B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FCCCC488-E4AB-446A-91CF-FD00B539AE8B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FCCCC488-E4AB-446A-91CF-FD00B539AE8B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

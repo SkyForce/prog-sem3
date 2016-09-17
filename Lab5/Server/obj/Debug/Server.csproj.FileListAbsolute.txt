@@ -1,0 +1,6 @@
+D:\univer\spsu-mm-programming-sartasov\Autumn\242\N_Shigarov\Lab5\Server\bin\Debug\Server.exe.config
+D:\univer\spsu-mm-programming-sartasov\Autumn\242\N_Shigarov\Lab5\Server\obj\Debug\Server.csprojResolveAssemblyReference.cache
+D:\univer\spsu-mm-programming-sartasov\Autumn\242\N_Shigarov\Lab5\Server\bin\Debug\Server.exe
+D:\univer\spsu-mm-programming-sartasov\Autumn\242\N_Shigarov\Lab5\Server\bin\Debug\Server.pdb
+D:\univer\spsu-mm-programming-sartasov\Autumn\242\N_Shigarov\Lab5\Server\obj\Debug\Server.exe
+D:\univer\spsu-mm-programming-sartasov\Autumn\242\N_Shigarov\Lab5\Server\obj\Debug\Server.pdb

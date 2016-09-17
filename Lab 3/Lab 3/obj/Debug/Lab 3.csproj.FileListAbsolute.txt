@@ -1,0 +1,6 @@
+D:\univer\spsu-mm-programming-sartasov\Autumn\242\N_Shigarov\Lab 3\Lab 3\bin\Debug\Lab 3.exe.config
+D:\univer\spsu-mm-programming-sartasov\Autumn\242\N_Shigarov\Lab 3\Lab 3\bin\Debug\Lab 3.exe
+D:\univer\spsu-mm-programming-sartasov\Autumn\242\N_Shigarov\Lab 3\Lab 3\bin\Debug\Lab 3.pdb
+D:\univer\spsu-mm-programming-sartasov\Autumn\242\N_Shigarov\Lab 3\Lab 3\obj\Debug\Lab 3.csprojResolveAssemblyReference.cache
+D:\univer\spsu-mm-programming-sartasov\Autumn\242\N_Shigarov\Lab 3\Lab 3\obj\Debug\Lab 3.exe
+D:\univer\spsu-mm-programming-sartasov\Autumn\242\N_Shigarov\Lab 3\Lab 3\obj\Debug\Lab 3.pdb
